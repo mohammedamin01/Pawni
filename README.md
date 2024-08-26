@@ -175,18 +175,4 @@ If you are looking for a highly skilled **Cyber Security Analyst** or a **Securi
 
 ---
 
-## 👨‍💻 How to Host This Website
-
-1. **Clone this repository**: 
-    ```bash
-    git clone https://github.com/yourusername/yourportfolio.git
-    ```
-2. **Upload your images** (e.g., ranking images, CVE links, testimonials).
-3. **Customize the links and content** to match your personal details.
-4. **Deploy on GitHub Pages**:
-    - Go to your repository settings and enable **GitHub Pages**.
-    - Customize the theme and domain for a professional touch.
-
----
-
 Thank you for visiting my portfolio! I look forward to contributing to your security needs and helping you protect what matters most.
