@@ -49,11 +49,40 @@ Beyond my technical expertise, I have a proven track record of high-ranking posi
 
 Throughout my career, I’ve worked on a wide range of high-impact projects in cybersecurity. Below are some of the standout projects that demonstrate my expertise and contributions to the industry:
 
-### 1. **Intel CVE-XXXX-XXXX**
-**Project Type**: Critical Vulnerability Discovery  
-**Role**: Lead Security Researcher  
-**Description**: I identified a critical **buffer overflow vulnerability** in Intel’s firmware that could have led to a complete system takeover if exploited. This vulnerability had the potential to allow attackers to execute arbitrary code, compromising the confidentiality, integrity, and availability of Intel’s systems. I collaborated with Intel’s internal security team to develop a patch that was later deployed to all affected systems globally.
-- **[View CVE Details](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-XXXX-XXXX)**
+### 1. **Intel CVE-2022-27638**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **privilege escalation vulnerability** in Intel® Advanced Link Analyzer Pro and Standard edition software. This vulnerability had the potential to allow attackers to gain elevated access, compromising the confidentiality, integrity, and availability of the affected systems. I worked closely with Intel's internal security team to develop and release a patch that was deployed globally to mitigate the issue.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00715.html)**
+
+### 1. **Intel CVE-2022-38101**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **privilege escalation vulnerability** in some Intel® NUC Chaco Canyon BIOS update software. This vulnerability had the potential to allow attackers to gain elevated access, compromising the security of affected systems. I collaborated with Intel’s security team to create and deploy a patch that was rolled out globally to address the issue.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00780.html)**
+
+### 1. **Intel CVE-2022-33963**
+**Project Type**: Critical Vulnerability Discovery
+**Description**: I identified a **privilege escalation vulnerability** in the Intel® Unite® Client software for Windows. This vulnerability had the potential to allow attackers to gain elevated privileges, jeopardizing the security of affected systems. I worked with Intel’s security team to develop and deploy a patch that was released globally to mitigate the risk.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00782.html)**
+
+### 1. **Intel CVE-2022-36391 & CVE-2022-46656**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified **privilege escalation vulnerabilities** in the Intel® NUC Pro Software Suite. These vulnerabilities had the potential to allow attackers to gain elevated privileges, compromising the security of affected systems. I collaborated with Intel’s security team to develop and globally deploy a patch to address the issue.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00834.html)**
+
+### 1. **Intel CVE-2022-43456**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **privilege escalation vulnerability** in some Intel® Rapid Storage Technology (RST) software. This vulnerability had the potential to allow attackers to gain elevated privileges, compromising the security of affected systems. I worked with Intel's security team to develop and deploy a global patch to mitigate the issue.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00795.html)**
+
+### 1. **Intel CVE-2023-25944**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **privilege escalation vulnerability** in some Intel® VCUST Tool software. This vulnerability had the potential to allow attackers to gain elevated privileges, compromising system security. I collaborated with Intel’s security team to develop and release a patch that was deployed globally to address the issue.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00844.html)**
+
+### 1. **Intel CVE-2023-28740**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified **information disclosure and privilege escalation vulnerabilities** in some Intel® QuickAssist Technology (QAT) software. These vulnerabilities had the potential to expose sensitive information and allow attackers to gain elevated privileges, compromising system security. I worked with Intel’s security team to develop and globally deploy patches to mitigate these issues.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00861.html)**
 
 ### 2. **Local Business Security Enhancement**
 **Project Type**: Full Security Audit  
