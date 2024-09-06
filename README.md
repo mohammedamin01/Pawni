@@ -84,6 +84,61 @@ Throughout my career, I’ve worked on a wide range of high-impact projects in c
 **Description**: I identified **information disclosure and privilege escalation vulnerabilities** in some Intel® QuickAssist Technology (QAT) software. These vulnerabilities had the potential to expose sensitive information and allow attackers to gain elevated privileges, compromising system security. I worked with Intel’s security team to develop and globally deploy patches to mitigate these issues.
 - **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00861.html)**
 
+### 1. **Intel CVE-2023-35003**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified **privilege escalation vulnerabilities** in some Intel® Virtual RAID on CPU (VROC) software. These vulnerabilities had the potential to allow attackers to gain elevated privileges, compromising system security. I collaborated with Intel’s security team to develop and release software updates to address and mitigate these issues.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00953.html)**
+
+### 1. **Intel CVE-2023-32646**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified **privilege escalation vulnerabilities** in some Intel® Virtual RAID on CPU (VROC) software. These vulnerabilities had the potential to allow attackers to gain elevated privileges, compromising system security. I worked with Intel’s security team to develop and release software updates to mitigate these vulnerabilities.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00953.html)**
+
+### 1. **Intel CVE-2023-24591**
+**Project Type**: Critical Vulnerability Discovery
+**Description**: I discovered a **privilege escalation vulnerability** in the Intel® Binary Configuration Tool software. This flaw had the potential to enable attackers to gain unauthorized elevated privileges, posing a significant security risk. I collaborated with Intel’s security team to develop and deploy updates that address and mitigate this vulnerability effectively.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00973.html)**
+
+### 1. **Intel CVE-2023-43748**
+**Project Type**: Critical Vulnerability Discovery
+**Description**: I discovered **escalation of privilege vulnerabilities** in certain Intel® Graphics Performance Analyzers (GPA) and Intel® GPA Framework software. These issues had the potential to allow unauthorized elevation of user privileges, impacting overall system security. Working with Intel’s security team, I helped develop and implement software updates to resolve these vulnerabilities and enhance protection.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00831.html)**
+
+### 1. **Intel CVE-2023-40155**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified **escalation of privilege and denial of service vulnerabilities** in some Intel® Context Sensing Technology (CST) software. These vulnerabilities had the potential to allow unauthorized privilege elevation or disrupt service operations. I collaborated with Intel’s security team to develop and release software updates to address and mitigate these issues.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01021.html)**
+
+### 1. **Intel CVE-2023-43747**
+**Project Type**: High Vulnerability Discovery
+**Description**: I discovered a **privilege escalation vulnerability** in certain Intel® Connectivity Performance Suite software installers. This issue had the potential to allow unauthorized elevation of privileges. I worked with Intel’s security team to develop and release updates that address and mitigate this vulnerability effectively.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01102.html)**
+
+### 1. **Intel CVE-2024-25561**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **privilege escalation vulnerability** in certain Intel® Human Interface Device (HID) Event Filter software installers. This vulnerability had the potential to enable unauthorized privilege elevation. I collaborated with Intel’s security team to develop and release software updates to address and mitigate this issue.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01089.html)**
+
+### 1. **Intel CVE-2024-28953**
+**Project Type**: High Vulnerability Discovery
+**Description**: I discovered a **privilege escalation vulnerability** in some Intel® Graphics Performance Analyzers (Intel® GPA) software. This flaw had the potential to allow unauthorized elevation of user privileges. I worked with Intel’s security team to develop and deploy software updates that address and mitigate this issue effectively.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01105.html)**
+
+### 1. **Intel CVE-2024-28046**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **privilege escalation vulnerability** in some EMON software. This issue had the potential to allow unauthorized privilege elevation. I collaborated with Intel’s security team to develop and release software updates to address and mitigate this vulnerability.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01125.html)**
+
+### 1. **Intel CVE-2024-26027**
+**Project Type**: High Vulnerability Discovery
+**Description**: I discovered a **privilege escalation vulnerability** in some Intel® Simics Package Manager software. This vulnerability had the potential to enable unauthorized elevation of user privileges. I worked with Intel’s security team to develop and release software updates to address and mitigate this issue effectively.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01116.html)**
+
+### 1. **Intel CVE-2024-22376**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **privilege escalation vulnerability** in some Intel® Ethernet Adapter Driver Pack software installers. This issue had the potential to allow unauthorized elevation of user privileges. I collaborated with Intel’s security team to develop and deploy software updates to address and mitigate this vulnerability.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01106.html)**
+
 ### 2. **Local Business Security Enhancement**
 **Project Type**: Full Security Audit  
 **Role**: Security Consultant  
@@ -120,26 +175,6 @@ I have received several accolades and official mentions for my contributions to 
 - **Dell Security Team**: Played a pivotal role in identifying and mitigating API security flaws in Dell’s web services.
 
 These recognitions underscore my dedication to the field of cybersecurity and my ability to make impactful contributions.
-
----
-
-## 📝 Blog Posts & Research
-
-Sharing knowledge and staying at the cutting edge of cybersecurity trends is essential in this rapidly evolving field. Below are some of my recent articles where I share insights and practical advice:
-
-### 1. **Breaking Down IDOR Vulnerabilities in APIs**
-**Overview**: This post delves into the mechanics of Insecure Direct Object References (IDORs), explaining how attackers can exploit this vulnerability and the steps developers can take to secure their APIs against such threats.  
-**[Read Post](https://yourblog.com/breaking-idors)**
-
-### 2. **Reverse Engineering Malware with Ghidra**
-**Overview**: A practical guide for reverse engineering malware using Ghidra, focusing on decompiling, analyzing, and understanding malicious code to develop effective countermeasures.  
-**[Read Post](https://yourblog.com/reverse-engineering-malware)**
-
-### 3. **The Rise of Cloud Security Threats**
-**Overview**: A look at the growing threat landscape in cloud computing, focusing on common vulnerabilities and how organizations can secure their cloud infrastructures.  
-**[Read Post](https://yourblog.com/cloud-security-threats)**
-
-**[View All Posts](https://yourblog.com)**
 
 ---
 
