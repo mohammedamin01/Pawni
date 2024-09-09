@@ -274,7 +274,7 @@ I have consistently maintained top rankings on some of the most reputable bug bo
 
 ### [Intigriti - AMD Top 1 Ranking](https://app.intigriti.com/researcher/programs/amd/amd/leaderboard?alltime=true&severity=1)
 ![Intigriti AMD Top 1 Ranking](https://vizoly-app-1.s3.me-central-1.amazonaws.com/Image+09-09-2024+at+8.41%E2%80%AFAM+2.jpg)
-### [Intigriti - Inrwl Top 1 Ranking](https://app.intigriti.com/researcher/programs/intel/intel/leaderboard?alltime=true&severity=1)
+### [Intigriti - Intel Top 1 Ranking](https://app.intigriti.com/researcher/programs/intel/intel/leaderboard?alltime=true&severity=1)
 ![Intigriti Intel Top 10 Ranking](https://vizoly-app-1.s3.me-central-1.amazonaws.com/Image+09-09-2024+at+8.27%E2%80%AFAM.jpg)
 
 ### [Bugcrowd - Top 10 Ranking](https://bugcrowd.com/dell-product/hall-of-fame)
