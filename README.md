@@ -243,7 +243,6 @@ I identified a privilege escalation vulnerability in Dell Encryption, Dell Endpo
 **Description**: As a top-ranked researcher on **Bugcrowd** and **Intigriti**, I have continuously contributed to the security of global applications by identifying and responsibly disclosing high-severity vulnerabilities. My work spans across sectors including fintech, healthcare, and e-commerce, with a focus on preventing high-impact security flaws such as **Authentication Bypass**, **SQL Injection**, and **Remote Code Execution (RCE)**.
 - **Recognition**: Consistently ranked in the **Top 1** on Intigriti and the **Top 10** on Bugcrowd.
 
-**More Projects**: [Click here to view all projects](https://github.com/yourusername)
 
 ---
 
