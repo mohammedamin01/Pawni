@@ -324,10 +324,9 @@ Discussed the unique challenges and opportunities in securing mobile application
 
 If you are looking for a highly skilled **Cyber Security Analyst** or a **Security Researcher** to help secure your applications, networks, or infrastructure, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@YourHandle](https://twitter.com/yourhandle)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: [admin@vizoly.com](mailto:admin@vizoly.com)
+- **LinkedIn**: [linkedin.com/in/mohamed-amine-saidani-72328b304](https://www.linkedin.com/in/mohamed-amine-saidani-72328b304/)
+- **GitHub**: [github.com/mohammedamin01](https://github.com/mohammedamin01)
 
 ---
 
