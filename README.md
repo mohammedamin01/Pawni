@@ -28,6 +28,8 @@ Beyond my technical expertise, I have a proven track record of high-ranking posi
 - **Bash**: Deep knowledge of shell scripting for automating security tasks on Linux systems.
 - **PHP**: Proficiency in securing web applications and preventing common security vulnerabilities.
 - **SQL**: Expert in database exploitation techniques, including SQL injection and database hardening.
+- **C**: Strong foundation in systems programming and security vulnerabilities related to memory management.
+- **C#**: Experienced in developing secure applications on the .NET framework and identifying security flaws.
 
 ### 🔐 Cybersecurity Specializations:
 - **Network Pentesting**: Extensive experience in network vulnerability assessments, including firewall penetration, man-in-the-middle (MITM) attacks, and exploiting network configurations.
@@ -287,36 +289,12 @@ These rankings reflect my dedication to discovering and reporting critical vulne
 ## 💬 Testimonials
 
 **“One of the sharpest minds in cybersecurity I’ve ever worked with. He not only identifies vulnerabilities but works closely with our teams to provide practical solutions. His work on our API security saved us from a potential disaster.”**
-— *John Doe, Lead Security Engineer at Intel*
+— *celeste, Lead Security Engineer at Intel*
 
 **“An exceptional security researcher who consistently goes above and beyond. He helped us identify critical flaws in our systems and played a key role in securing our backend infrastructure.”**
-— *Jane Smith, CTO at Local Business Inc.*
+— *balvarez, Lead Security Engineer at AMD*
 
 These testimonials from industry leaders highlight my ability to deliver high-quality, impactful security services that drive tangible results.
-
----
-
-## 📚 Contributions
-
-I am also deeply involved in the open-source community, regularly contributing to security projects and tools that help other professionals enhance their security practices:
-
-- **[OWASP ZAP Proxy Improvements](https://github.com/yourusername/owasp-zap)**: Enhanced the functionality of the OWASP ZAP Proxy to improve web vulnerability scanning and report generation.
-- **[SQL Injection Detection Tool](https://github.com/yourusername/sql-injection-detector)**: Developed a tool that automates the detection of SQL injection vulnerabilities in web applications.
-
----
-
-## 🗣️ Speaking Engagements
-
-Sharing my expertise with the broader community is an important part of my professional journey. Below are some of the conferences and events where I’ve spoken:
-
-### **DEFCON 2024** - "Breaking the Cloud: New Exploitation Techniques"
-Spoke on the emerging threats in cloud security and demonstrated advanced exploitation techniques aimed at cloud infrastructures.
-
-### **Black Hat Europe 2023** - "Advanced API Security and Exploitation"
-Gave an in-depth presentation on API vulnerabilities, focusing on real-world examples and case studies from my work.
-
-### **OWASP AppSec Global 2023** - "Vulnerability Research in Mobile Apps"
-Discussed the unique challenges and opportunities in securing mobile applications, sharing insights from my research on mobile security vulnerabilities.
 
 ---
 
