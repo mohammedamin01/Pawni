@@ -59,6 +59,11 @@ Throughout my career, I’ve worked on a wide range of high-impact projects in c
 **Description**: I identified a **privilege escalation vulnerability** in some Intel® NUC Chaco Canyon BIOS update software. This vulnerability had the potential to allow attackers to gain elevated access, compromising the security of affected systems. I collaborated with Intel’s security team to create and deploy a patch that was rolled out globally to address the issue.
 - **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00780.html)**
 
+### 1. **Intel CVE-2022-36398**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified **potential security vulnerabilities** in the Intel® Battery Life Diagnostic Tool that could allow escalation of privilege. Intel is releasing software updates to mitigate these vulnerabilities.
+- **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00726.html)**
+
 ### 1. **Intel CVE-2022-33963**
 **Project Type**: Critical Vulnerability Discovery
 **Description**: I identified a **privilege escalation vulnerability** in the Intel® Unite® Client software for Windows. This vulnerability had the potential to allow attackers to gain elevated privileges, jeopardizing the security of affected systems. I worked with Intel’s security team to develop and deploy a patch that was released globally to mitigate the risk.
@@ -138,6 +143,91 @@ Throughout my career, I’ve worked on a wide range of high-impact projects in c
 **Project Type**: High Vulnerability Discovery
 **Description**: I identified a **privilege escalation vulnerability** in some Intel® Ethernet Adapter Driver Pack software installers. This issue had the potential to allow unauthorized elevation of user privileges. I collaborated with Intel’s security team to develop and deploy software updates to address and mitigate this vulnerability.
 - **[View CVE Details](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01106.html)**
+
+### 1. **OpenSSL CVE-2022-3602**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **buffer overrun vulnerability** in the X.509 certificate verification process, specifically during name constraint checking. This issue could allow an attacker to overflow four attacker-controlled bytes on the stack by crafting a malicious email address. The buffer overflow might lead to a crash (denial of service) or potentially remote code execution. However, many platforms implement stack overflow protections that mitigate the risk of remote code execution, and further mitigations depend on platform/compiler-specific stack layout.
+
+I collaborated with relevant teams to ensure this vulnerability was addressed in OpenSSL 3.0.7, which resolved the issue. Users are strongly advised to update their software to this version, as the vulnerability affects OpenSSL versions 3.0.0 through 3.0.6. This issue, initially rated as CRITICAL, was downgraded to HIGH due to mitigating factors.
+- **[View CVE Details](https://nvd.nist.gov/vuln/detail/CVE-2022-3602)**
+
+### 1. **OpenSSL CVE-2022-3786**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **buffer overrun vulnerability** in the X.509 certificate verification process, specifically in the name constraint checking phase. This issue can be exploited when an attacker crafts a malicious email address within a certificate, causing an arbitrary number of bytes containing the . character (decimal 46) to overflow on the stack. The resulting buffer overflow could lead to a crash, resulting in a denial of service.
+
+In a TLS client, this vulnerability can be triggered by connecting to a malicious server. In a TLS server, it can be exploited if the server requests client authentication and a malicious client connects.
+- **[View CVE Details](https://nvd.nist.gov/vuln/detail/CVE-2022-3786)**
+
+### 1. **Dell CVE-2022-34457**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified an **Improper Access Control vulnerability** in Dell Command | Configure versions prior to 4.9.0. This issue could allow a local low-privileged attacker to escalate their privileges by modifying files within the installed directory. The vulnerability is classified as critical since it enables non-administrative users to disrupt the application's functionality, rendering it unavailable for all users.
+- **[View CVE Details](https://www.dell.com/support/kbdoc/en-us/000205633/dsa-2022-297-dell-command-configure-security-update-for-multiple-vulnerabilities)**
+
+### 1. **Dell CVE-2022-34464**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **Permissions vulnerability** in Dell Display Manager. This vulnerability could allow a local low-privileged user to bypass default access controls and potentially escalate their privileges on the system.
+- **[View CVE Details](https://www.dell.com/support/kbdoc/en-us/000206359/cve-2022-34462)**
+
+### 1. **Dell CVE-2023-32479**
+**Project Type**: High Vulnerability Discovery
+**Description**: 
+I identified a privilege escalation vulnerability in Dell Encryption, Dell Endpoint Security Suite Enterprise, and Dell Security Management Server versions prior to 11.9.0. This issue arises from improper Access Control Lists (ACL) in the non-default installation directory. A local malicious user could exploit this by replacing binaries in the installed directory, potentially gaining a reverse shell and escalating their privileges on the system.
+- **[View CVE Details](https://www.dell.com/support/kbdoc/en-us/000215881/dsa-2023-260)**
+
+### 1. **Dell CVE-2023-32479**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a privilege elevation vulnerability in Dell EMC License Manager version 1.7.1. This vulnerability could allow an authenticated non-admin attacker to execute arbitrary code, potentially leading to a complete system compromise.
+- **[View CVE Details](https://www.dell.com/support/kbdoc/en-us/000215881/dsa-2023-260)**
+
+### 1. **AMD CVE-2023-31348**
+**Project Type**: High Vulnerability Discovery
+**Description**: I identified a **DLL hijacking vulnerability** in AMD μProf. This vulnerability could allow an attacker to escalate privileges and potentially execute arbitrary code on the system.
+- **[View CVE Details](https://nvd.nist.gov/vuln/detail/CVE-2023-31348)**
+
+### 1. **AMD CVE-2023-31359**
+**Project Type**: High Vulnerability Discovery
+**Description**: planning the public disclosure of this vulnerability in February 2025. It has been assigned CVE-2023-3135.
+- **[View CVE Details]()**
+
+### 1. **AMD CVE-2024-21937**
+**Project Type**: High Vulnerability Discovery
+**Description**: planning the public disclosure of this vulnerability in Nov 12, 2024. It has been assigned CVE-2024-21937.
+- **[View CVE Details]()**
+
+### 1. **AMD CVE-2024-21960**
+**Project Type**: High Vulnerability Discovery
+**Description**: planning the public disclosure of this vulnerability in February 2025. It has been assigned CVE-2024-21960.
+- **[View CVE Details]()**
+
+### 1. **AMD CVE-2024-21968**
+**Project Type**: High Vulnerability Discovery
+**Description**: planning the public disclosure of this vulnerability in February 2025. It has been assigned CVE-2024-21968.
+- **[View CVE Details]()**
+
+### 1. **AMD CVE-2023-31361**
+**Project Type**: High Vulnerability Discovery
+**Description**: planning the public disclosure of this vulnerability in February 2025. It has been assigned CVE-2023-31361.
+- **[View CVE Details]()**
+
+### 1. **AMD CVE-2023-31360**
+**Project Type**: High Vulnerability Discovery
+**Description**: planning the public disclosure of this vulnerability in February 2025. It has been assigned CVE-2023-31360.
+- **[View CVE Details]()**
+
+### 1. **AMD CVE-2024-21959**
+**Project Type**: High Vulnerability Discovery
+**Description**: planning the public disclosure of this vulnerability in February 2025. It has been assigned CVE-2024-21959.
+- **[View CVE Details]()**
+
+### 1. **AMD CVE-2024-21957**
+**Project Type**: High Vulnerability Discovery
+**Description**: planning the public disclosure of this vulnerability in November 2024. It has been assigned CVE-2024-21968.
+- **[View CVE Details]()**
+
+### 1. **AMD CVE-2024-21958**
+**Project Type**: High Vulnerability Discovery
+**Description**: planning the public disclosure of this vulnerability in CVE-2024-21958. It has been assigned CVE-2024-21958.
+- **[View CVE Details]()**
 
 ### 2. **Local Business Security Enhancement**
 **Project Type**: Full Security Audit  
