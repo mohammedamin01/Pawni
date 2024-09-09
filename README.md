@@ -251,7 +251,6 @@ I identified a privilege escalation vulnerability in Dell Encryption, Dell Endpo
 ### **Security Certifications** 📜:
 - **Certified Ethical Hacker (CEH)**: Demonstrates my ability to think like a hacker and ethically exploit systems to identify and fix security flaws before attackers can.
 - **Offensive Security Certified Professional (OSCP)**: Validates my skills in penetration testing, network exploitation, and vulnerability analysis.
-- **Certified Information Systems Security Professional (CISSP)**: Represents my deep knowledge of security frameworks, risk management, and security operations.
 
 These certifications, combined with my hands-on experience, solidify my role as a qualified cybersecurity professional capable of tackling the toughest security challenges.
 
