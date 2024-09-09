@@ -272,10 +272,10 @@ These recognitions underscore my dedication to the field of cybersecurity and my
 
 I have consistently maintained top rankings on some of the most reputable bug bounty platforms, proving my expertise in vulnerability research and ethical hacking:
 
-### [Intigriti - Top 1 Ranking]([https://intigriti.com](https://app.intigriti.com/researcher/programs/intel/intel/leaderboard?alltime=true&severity=1))
+### [Intigriti - Top 1 Ranking](https://app.intigriti.com/researcher/programs/intel/intel/leaderboard?alltime=true&severity=1)
 ![Intigriti Top 1 Ranking](https://vizoly-app-1.s3.me-central-1.amazonaws.com/Image+09-09-2024+at+8.27%E2%80%AFAM.jpg)
 
-### [Bugcrowd - Top 10 Ranking]([https://bugcrowd.com](https://bugcrowd.com/dell-product/hall-of-fame))
+### [Bugcrowd - Top 10 Ranking](https://bugcrowd.com/dell-product/hall-of-fame)
 ![Bugcrowd Top 10 Ranking](https://vizoly-app-1.s3.me-central-1.amazonaws.com/Image+09-09-2024+at+8.37%E2%80%AFAM.jpg)
 
 These rankings reflect my dedication to discovering and reporting critical vulnerabilities that improve the security of global applications and systems.
