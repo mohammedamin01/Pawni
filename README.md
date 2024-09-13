@@ -302,7 +302,7 @@ If you are looking for a highly skilled **Cyber Security Analyst** or a **Securi
 
 - **Email**: [admin@vizoly.com](mailto:admin@vizoly.com)
 - **Phone**: [+971 56 940 3309](tel:+971569403309)
-- **LinkedIn**: [linkedin.com/in/mohamed-amine-saidani-72328b304](https://www.linkedin.com/in/mohamed-amine-saidani-72328b304/)
+- **LinkedIn**: [linkedin.com/in/mohamed-amine-saidani-72328b304](https://www.linkedin.com/in/mohammed-amine-saidani-a4b6b226b/)
 - **GitHub**: [github.com/mohammedamin01](https://github.com/mohammedamin01)
 
 ---
