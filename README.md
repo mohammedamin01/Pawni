@@ -8,7 +8,7 @@
 
 I am a seasoned **Cyber Security Analyst** and **GitHub Security Researcher**, specializing in the identification, analysis, and mitigation of critical security vulnerabilities. My passion for cybersecurity extends far beyond basic testing—I delve deep into systems, networks, and applications to unearth hidden flaws that could compromise entire infrastructures.
 
-Over the years, I have partnered with industry giants such as **Intel**, **AMD**, and **Dell**, where I’ve successfully identified more than **20 critical vulnerabilities** that, if left unaddressed, could have posed severe threats to their systems and data integrity. Additionally, I’ve worked with local businesses, helping them secure their applications and networks by implementing robust security measures and fixing critical vulnerabilities, particularly in their web and mobile apps.
+Over the years, I have partnered with industry giants such as **Intel**, **AMD**, and **Dell**, where I’ve successfully identified more than **40 critical vulnerabilities** that, if left unaddressed, could have posed severe threats to their systems and data integrity. Additionally, I’ve worked with local businesses, helping them secure their applications and networks by implementing robust security measures and fixing critical vulnerabilities, particularly in their web and mobile apps.
 
 Beyond my technical expertise, I have a proven track record of high-ranking positions on prominent bug bounty platforms, such as **Intigriti** and **Bugcrowd**, where I consistently rank in the **Top 1%** of security researchers.
 
