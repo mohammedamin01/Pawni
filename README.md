@@ -300,7 +300,7 @@ These testimonials from industry leaders highlight my ability to deliver high-qu
 
 If you are looking for a highly skilled **Cyber Security Analyst** or a **Security Researcher** to help secure your applications, networks, or infrastructure, feel free to reach out:
 
-- **Email**: [admin@vizoly.com](mailto:admin@vizoly.com)
+- **Email**: [admin@vizoly.com](mailto:mohammedaminesaidani@gmail.com)
 - **Phone**: [+971 56 940 3309](tel:+971569403309)
 - **LinkedIn**: [linkedin.com/in/mohamed-amine-saidani-72328b304](https://www.linkedin.com/in/mohammed-amine-saidani-a4b6b226b/)
 - **GitHub**: [github.com/mohammedamin01](https://github.com/mohammedamin01)
