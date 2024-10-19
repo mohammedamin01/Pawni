@@ -13,7 +13,7 @@ Over the years, I have partnered with industry giants such as **Intel**, **AMD**
 Beyond my technical expertise, I have a proven track record of high-ranking positions on prominent bug bounty platforms, such as **Intigriti** and **Bugcrowd**, where I consistently rank in the **Top 1%** of security researchers.
 
 ### **Key Highlights** 📈:
-- **Discovered over 20 critical vulnerabilities** in leading tech companies, including Intel, AMD, and Dell.
+- **Discovered over 40 critical vulnerabilities** in leading tech companies, including Intel, AMD, and Dell.
 - **Earned more than $150,000** from critical vulnerability disclosures and security research.
 - Ranked among the **Top 1%** on **Intigriti** and **Bugcrowd** for my contributions to vulnerability research.
 - Helped local businesses identify and remediate critical vulnerabilities such as **IDOR** in their APIs and applications.
